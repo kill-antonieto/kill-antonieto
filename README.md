@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ays-devlabs-banner-v1.png" alt="Antonio Figuera, automatización y tecnología" width="100%" />
+</p>
+
 # Antonio Figuera · antonieto.exe 👋
 
 **Soporte técnico · RPA · Automatización con IA**
