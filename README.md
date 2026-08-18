@@ -1,25 +1,31 @@
-# ¡Hola! Soy Antonio 👋
+# Antonio Figuera · antonieto.exe 👋
 
-Estoy construyendo mi camino como desarrollador. Me interesa aprender creando productos pequeños, útiles y bien terminados.
+**Soporte técnico · RPA · Automatización con IA**
 
-## En este momento
+Soy socio administrador de [AyS DevLabs](https://aysdevlabs.com). Diseño soluciones prácticas para reducir tareas repetitivas, ordenar operaciones y convertir problemas técnicos en flujos claros y medibles.
 
-- 🌱 Construyendo mi portafolio desde cero.
-- 🧩 Practicando HTML, CSS y JavaScript.
-- 🚀 Publicando proyectos y documentando lo que aprendo.
+<p>
+  <a href="https://aysdevlabs.com"><img alt="AyS DevLabs" src="https://img.shields.io/badge/AyS_DevLabs-Visitar_sitio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/antonieto.exe/"><img alt="Instagram antonieto.exe" src="https://img.shields.io/badge/@antonieto.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-## Proyecto destacado
+## En qué trabajo
 
-- [Dev Journal](https://github.com/kill-antonieto/dev-journal) — una bitácora web para convertir objetivos de aprendizaje en avances concretos.
+- Automatización de procesos con Python y RPA.
+- Soporte técnico, diagnóstico y mejora de operaciones.
+- Integraciones y flujos asistidos por IA.
+- Datos y consultas SQL para obtener información accionable.
+
+## Proyectos
+
+- [Dev Journal](https://github.com/kill-antonieto/dev-journal) — una bitácora web de aprendizaje y progreso.
+- [RPA Job Monitor](https://github.com/kill-antonieto/rpa-job-monitor) — registro local y panel de ejecuciones de bots.
+- [Support Case Insights](https://github.com/kill-antonieto/support-case-insights) — análisis operativo de tickets de soporte desde CSV.
 
 ## Tecnologías
 
-`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+`Python` · `SQL` · `RPA` · `Automatización con IA` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
 
-## Cómo trabajo
+## Principio de trabajo
 
-Prefiero contribuciones pequeñas y reales: una mejora con contexto, una prueba, una corrección o documentación útil. Así el historial de GitHub cuenta una historia honesta de lo que estoy aprendiendo.
-
----
-
-_Este perfil irá evolucionando junto con mis proyectos._
+Publico mejoras que resuelven un problema: automatizaciones, documentación, pruebas, correcciones y herramientas operativas. Mi historial refleja trabajo real y aprendizaje continuo.
