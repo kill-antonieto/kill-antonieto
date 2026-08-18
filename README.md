@@ -1,13 +1,15 @@
-# Antonio Figuera · antonieto.exe 👋
+# Antonio Figuera · antonieto.exe
 
-**Soporte técnico · RPA · Automatización con IA**
+**Desarrollo · Automatización · Sistemas & Infraestructura · IA**
 
-Soy socio administrador de [AyS DevLabs](https://aysdevlabs.com). Trabajo en desarrollo, automatización y soluciones de TI, creando herramientas que conectan sistemas y simplifican procesos del día a día.
+Soy socio administrador de [AyS DevLabs](https://aysdevlabs.com) y trabajo desarrollando soluciones que conectan software, datos e infraestructura. Me enfoco principalmente en automatización de procesos, integración de sistemas y herramientas internas que resuelven problemas reales.
 
-<p>
-  <a href="https://aysdevlabs.com"><img alt="AyS DevLabs" src="https://img.shields.io/badge/AyS_DevLabs-Visitar_sitio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.instagram.com/antonieto.exe/"><img alt="Instagram antonieto.exe" src="https://img.shields.io/badge/@antonieto.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+## 🔭 Actualmente
+
+- 🏠 Ampliando mi homelab y experimentando con Proxmox, Docker, redes y servicios self-hosted.
+- 🤖 Explorando LLMs, agentes de IA y automatizaciones conectadas con herramientas y servicios propios.
+- ⚙️ Desarrollando herramientas internas y automatizaciones con Python, SQL y APIs.
+- 📚 Documentando proyectos y aprendizajes para convertir experimentos en soluciones reproducibles.
 
 ## En qué trabajo
 
@@ -21,14 +23,26 @@ Soy socio administrador de [AyS DevLabs](https://aysdevlabs.com). Trabajo en des
 
 ## Proyectos
 
-- [Dev Journal](https://github.com/kill-antonieto/dev-journal) — una bitácora web de aprendizaje y progreso.
-- [RPA Job Monitor](https://github.com/kill-antonieto/rpa-job-monitor) — registro local y panel de ejecuciones de bots.
-- [Support Case Insights](https://github.com/kill-antonieto/support-case-insights) — análisis operativo de tickets de soporte desde CSV.
+- [RPA Job Monitor](https://github.com/kill-antonieto/rpa-job-monitor) — Python, RPA y observabilidad: registro local, trazabilidad y métricas de ejecuciones de bots.
+- [Support Case Insights](https://github.com/kill-antonieto/support-case-insights) — datos, soporte y análisis: convierte tickets CSV en indicadores operativos.
+- [Dev Journal](https://github.com/kill-antonieto/dev-journal) — una aplicación web ligera para organizar objetivos y documentar progreso.
+- Próximo: **Homelab** — arquitectura, virtualización, Docker, redes, servicios self-hosted, monitoreo y Wake-on-LAN.
 
 ## Tecnologías
 
 `Python` · `SQL` · `PostgreSQL` · `Excel/VBA` · `RPA` · `APIs` · `Docker` · `Linux` · `Proxmox` · `IA local` · `LLMs` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
 
+## 🎯 Áreas de interés
+
+Automation Engineering · Backend · DevOps · Infrastructure · AI Agents · Self-hosting
+
 ## Principio de trabajo
 
 La mejor automatización no es la más compleja: es la que elimina fricción, deja trazabilidad y ayuda a las personas a trabajar mejor. Construyo proyectos para resolver problemas reales, automatizar tareas repetitivas y aprender nuevas tecnologías; cada solución busca ser útil, mantenible y medible.
+
+## 📫 Encuéntrame en
+
+<p>
+  <a href="https://aysdevlabs.com"><img alt="AyS DevLabs" src="https://img.shields.io/badge/AyS_DevLabs-Visitar_sitio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/antonieto.exe/"><img alt="Instagram antonieto.exe" src="https://img.shields.io/badge/@antonieto.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
