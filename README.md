@@ -1,7 +1,4 @@
-<p align="center">
-</p>
-
-# Antonio Figuera
+# Antonio Figuera · antonieto.exe 👋
 
 **Soporte técnico · RPA · Automatización con IA**
 
@@ -14,10 +11,11 @@ Soy socio administrador de [AyS DevLabs](https://aysdevlabs.com). Diseño soluci
 
 ## En qué trabajo
 
-- Automatización de procesos con Python y RPA.
-- Soporte técnico, diagnóstico y mejora de operaciones.
-- Integraciones y flujos asistidos por IA.
-- Datos y consultas SQL para obtener información accionable.
+- Soporte técnico: diagnóstico, resolución de incidencias y mejora continua de la experiencia operativa.
+- Automatización RPA: identifico tareas repetitivas y las convierto en flujos confiables y medibles.
+- Automatización con IA: diseño asistentes, integraciones y procesos que reducen trabajo manual sin perder control humano.
+- Python y SQL: desarrollo herramientas internas, conecto datos y transformo información en decisiones accionables.
+- Operaciones y documentación: estandarizo procesos, creo guías claras y facilito que los equipos puedan escalar su trabajo.
 
 ## Proyectos
 
@@ -31,4 +29,4 @@ Soy socio administrador de [AyS DevLabs](https://aysdevlabs.com). Diseño soluci
 
 ## Principio de trabajo
 
-Publico mejoras que resuelven un problema: automatizaciones, documentación, pruebas, correcciones y herramientas operativas. Mi historial refleja trabajo real y aprendizaje continuo.
+La mejor automatización no es la más compleja: es la que elimina fricción, deja trazabilidad y ayuda a las personas a trabajar mejor. Publico soluciones que nacen de problemas reales —herramientas operativas, automatizaciones, documentación, pruebas y correcciones— y mantengo un aprendizaje continuo orientado a resultados.
